@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SparkLog.<br><br>👯 I’m looking to collaborate on Full Stack Development Projects.<br><br>❓ Ask me about anything related to PostgreSQL, MongoDB, ReactJs, Express Js, Node Js, Rest APIs, HTML, CSS, JavaScript, Python and MySql.<br><br>📫 How to reach me c.sharma4002@gmail.com.<br><br>⚡ Fun fact: I create functions with names longer than my variable names.
+🔭 I’m currently working on SparkLog Ventures LLP.<br><br>👯 I’m looking to collaborate on Full Stack Development Projects.<br><br>❓ Ask me about anything related to PostgreSQL, MongoDB, ReactJs, Express Js, Node Js, Rest APIs, HTML, CSS, JavaScript, Python and MySql.<br><br>📫 How to reach me c.sharma4002@gmail.com.<br><br>⚡ Fun fact: I create functions with names longer than my variable names.
 
 
 ## 🌐 Socials:
