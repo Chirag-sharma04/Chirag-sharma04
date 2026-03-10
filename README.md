@@ -1,5 +1,5 @@
 # 💫 About Me
-## Hi 👋, I'm Chirag Sharma
+<h1 align="center">Hi 👋, I'm Chirag Sharma</h1>
 
 🔭 Worked as a MERN Stack Developer at Digital Mongers, building and optimizing full-stack web applications.
 
