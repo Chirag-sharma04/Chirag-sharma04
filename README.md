@@ -1,5 +1,17 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Chirag Sharma</h1><br><br>🔭 Worked as a MERN Stack Developer at Digital Mongers, building and optimizing full-stack web applications.<br><br>🔁 Previously interned as a Full-Stack Developer at Sparklog Ventures LLP, working with Next.js, Node.js, and PostgreSQL on production projects.<br><br>👯 Open to collaborating on Full-Stack Development projects, automation tools, and scalable web applications.<br><br>💻 Tech I work with: Next.js, React, Node.js, Express, FastAPI, PostgreSQL, MongoDB, MySQL, REST APIs, Docker, Redis, JavaScript, Python.<br><br>📫 Reach me at: c.sharma4002@gmail.com<br><br>⚡ Fun fact: I spend more time naming functions than writing them.<br>
+# 💫 About Me
+## Hi 👋, I'm Chirag Sharma
+
+🔭 Worked as a MERN Stack Developer at Digital Mongers, building and optimizing full-stack web applications.
+
+🔁 Previously interned as a Full-Stack Developer at SparkLog Ventures LLP, working with Next.js, Node.js, and PostgreSQL on production features.
+
+👯 Open to collaborating on full-stack development projects, automation tools, and scalable web applications.
+
+💻 **Tech Stack:** Next.js, React, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, MySQL, REST APIs, Docker, Redis, JavaScript, Python
+
+📫 **Reach me:** c.sharma4002@gmail.com
+
+⚡ **Fun fact:** I sometimes spend more time naming functions than writing them.
 
 
 ## 🌐 Socials:
