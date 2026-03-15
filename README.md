@@ -5,99 +5,124 @@
 
 ## 🚀 About Me
 
-I’m a Full Stack Developer who enjoys building **real-world systems, automation tools, and scalable web applications**.
+Full Stack Developer focused on **building real-world systems, automation tools, and scalable web applications**.
 
-Most of my work focuses on:
+I primarily work on:
 
-- Building **full-stack applications**
-- Developing **APIs and backend systems**
-- Creating **automation workflows and scraping systems**
-- Integrating **AI tools into practical products**
-
-I prefer working on **projects that solve actual problems**, not just demo apps.
+- Full-stack applications  
+- Backend APIs and system architecture  
+- Automation systems & scraping pipelines  
+- AI workflow integrations  
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-### 💻 Languages
-- JavaScript
-- TypeScript
-- Python
-- Java
-- SQL
+<table>
+<tr>
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- NestJs
-- REST APIs
-- FastAPI
-- Django
+<td valign="top" width="16%">
 
-### 🖥 Frontend
-- React.js
-- Next.js
-- HTML
-- CSS
-- Bootstrap
-- Tailwind
+### Languages
+- JavaScript  
+- TypeScript  
+- Python  
+- Java  
+- SQL  
 
-### 🗄 Databases
-- PostgreSQL
-- MongoDB
-- SQL
+</td>
 
-### 🤖 Automation & AI
-- Selenium Automation
-- API integrations
-- AI workflow automation
-- Web scraping systems
+<td valign="top" width="16%">
 
-### ☁️ Tools & DevOps
-- Git & GitHub
-- Vercel
-- Linux / SSH
-- Docker
-- API testing
+### Backend
+- Node.js  
+- Express.js  
+- NestJS  
+- FastAPI  
+- Django  
+- REST APIs  
 
----
+</td>
 
-## 🧩 What I Build
+<td valign="top" width="16%">
+
+### Frontend
+- React.js  
+- Next.js  
+- HTML  
+- CSS  
+- Tailwind  
+- Bootstrap  
+
+</td>
+
+<td valign="top" width="16%">
+
+### Databases
+- PostgreSQL  
+- MongoDB  
+- SQL  
+
+</td>
+
+<td valign="top" width="16%">
+
+### Automation & AI
+- Selenium  
+- Web Scraping  
+- API Integrations  
+- AI Workflows  
+
+</td>
+
+<td valign="top" width="16%">
+
+### DevOps & Tools
+- Git  
+- GitHub  
+- Docker  
+- Linux / SSH  
+
+</td>
+
+</tr>
+</table>
+
+# 🧩 What I Build
 
 - Full-stack web applications  
-- Automation tools (scraping, workflow automation)  
+- Automation tools & scraping systems  
 - AI-integrated tools  
-- Data pipelines & analytics systems  
+- Data analysis pipelines  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chiragsharma&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chirag-sharma04&show_icons=true&theme=tokyonight&count_private=true" />
 
-<br/>
+<br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=chiragsharma&theme=tokyonight" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Chirag-sharma04&theme=tokyonight" />
 
-<br/>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsharma&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-sharma04&layout=compact&theme=tokyonight&count_private=true" />
 
 </p>
 
 ---
 
-## ⚡ Current Focus
+# ⚡ Current Focus
 
-- Building **automation systems for social media analysis**
-- Developing **AI-powered workflow tools**
-- Creating **scalable backend systems**
+- Automation systems for **social media analysis**
+- AI powered workflow tools
+- Scalable backend systems
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1370808533427163138) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-sharma-4b05b22a9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChiragShar20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:c.sharma4002@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1370808533427163138) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-sharma-4b05b22a9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChiragShar20) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:c.sharma4002@gmail.com)
