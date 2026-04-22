@@ -105,7 +105,7 @@ I primarily work on:
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Chirag-sharma04&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Chirag-sharma04&theme=tokyonight" />
 
 <br>
 
