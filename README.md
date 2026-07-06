@@ -133,13 +133,13 @@ I primarily work on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chirag-sharma04&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-sharma04&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" width="42%"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chirag-sharma04&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chirag-sharma04&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Chirag-sharma04&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" width="60%"/>
-
+<img height="180em" src="https://streak-stats.demolab.com?user=Chirag-sharma04&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" />
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag-sharma04&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ff9e64" width="95%"/>
